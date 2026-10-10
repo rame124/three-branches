@@ -42,8 +42,8 @@ python -m sandbox llm
 
 ## AI-use discolosure and reflection
 
-I used ChatGPT to update my Three Branches agent so now the NPCs the agents are attached to navigate out of their houses better, and do some work around the village before wandering around. ChatGPT made the code changes; and I did not make additional manual edits. I reviewed the new agent, checked the helpers against the environment page, and tested it against the seeds before and after each change. The new agent now performs as wanted for the design goal.
+I used ChatGPT to update my Three Branches agent so that the agents now have a group of tasks they will perform while also navigating the village in a thoughtful manner - they should also take breaks in between tasks. ChatGPT made the code changes; and I did not make additional manual edits. I reviewed the new agent, checked the helpers against the environment page, and tested it against the seeds before and after each change. The new agent now performs as wanted for the design goal.
 
 # Design Goal
 
-My design goal for this agent was: In the RPG game, a visiting player should see our villagers tending to untended shrines and stalls before wandering around the village.
+My design goal for this agent was: For the RPG game, players should notice the villagers tend to different tasks throughout the day, interact with other villagers and the player, and take short breaks for small chores or chatting.
